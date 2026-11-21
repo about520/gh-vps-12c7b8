@@ -13,10 +13,10 @@ Runner2024
 - 系统: Windows Server 2025 Datacenter
 - 时区: 北京时间 (UTC+8)
 - 中文环境: 
-ui=False | langpack=False | ime=False | note=正在检测 |
+ui=True | langpack=True | ime=True | note=中文语言包已装上，桌面外壳已刷新 |
 - 中文提示: 不用注销也不用重启；界面没变就双击桌面「变中文.bat」
 - RDP 服务: 
 Running
 - 时间: 
-2026-11-21 10:55:08
+2026-11-21 10:56:10
  UTC
